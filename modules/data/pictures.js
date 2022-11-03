@@ -1,0 +1,1 @@
+export const picArray=['./assets/harleyQuinn.jpeg'];

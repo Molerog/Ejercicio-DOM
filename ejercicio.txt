@@ -1,0 +1,16 @@
+-Crear una página que contenga un formulario con unos inputs mínimos (nombre,edad y texto). 
+-También se DEBERÁ crear un carrousel con imágenes.
+-Cuando hagamos "click" en el botón submit del formulario; tanto los inputs como la imagen se añadiran a una tarjeta.
+-El resultado de la tarjeta debe mostrarse en el momento que pulsamos en el botón submit.
+-Borrar cada tarjeta individualmente
+-Borrar todas las tarjetas
+
+---Cosas a investigar para este ejercicio---
+1. Módulos
+2. Objeto formData
+3. Atributo dataset
+4. e.preventDefault()
+
+---Excepciones---
+-Se puede utilizar innerHTML única y exclusivamente para pintar las tarjetas
+
